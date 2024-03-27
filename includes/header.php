@@ -1,7 +1,7 @@
 <header class="bg-dark">
   <nav class="navbar border-bottom border-body">
     <div class="container-fluid">
-      <button class="btn btn-primary" type="button" data-bs-toggle="collapse" data-bs-target="#sidebar" aria-expanded="false" aria-controls="sidebar">
+      <button type="button" class="btn text-light" id="sidebar-toggle">
         <i class="fa-solid fa-bars"></i>
       </button>
       <div class="d-flex align-items-center gap-3">
