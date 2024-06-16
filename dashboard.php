@@ -11,7 +11,7 @@
         <!-- Cards -->
         <div class="row mb-4">
           <div class="col-sm-6 col-lg-3">
-            <div class="card border-primary bg-primary bg-opacity-25">
+            <div class="card border-primary bg-primary bg-opacity-50">
               <div class="card-header">
                 <p class="fs-5 fw-semibold mb-0">Usuários cadastrados</p>
               </div>
@@ -30,7 +30,7 @@
           </div>
 
           <div class="col-sm-6 col-lg-3">
-            <div class="card border-warning bg-warning bg-opacity-25">
+            <div class="card border-warning bg-warning bg-opacity-50">
               <div class="card-header">
                 <p class="fs-5 fw-semibold mb-0">Total de tarefas</p>
               </div>
@@ -49,7 +49,7 @@
           </div>
 
           <div class="col-sm-6 col-lg-3">
-            <div class="card border-success bg-success bg-opacity-25">
+            <div class="card border-success bg-success bg-opacity-50">
               <div class="card-header">
                 <p class="fs-5 fw-semibold mb-0">Tarefas concluídas</p>
               </div>
@@ -68,7 +68,7 @@
           </div>
 
           <div class="col-sm-6 col-lg-3">
-            <div class="card border-danger bg-danger bg-opacity-25">
+            <div class="card border-danger bg-danger bg-opacity-50">
               <div class="card-header">
                 <p class="fs-5 fw-semibold mb-0">Tarefas vencidas</p>
               </div>

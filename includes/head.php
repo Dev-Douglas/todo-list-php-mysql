@@ -12,4 +12,4 @@
   <title>Document</title>
 </head>
 
-<body>
+<body class="bg-body-secondary">
